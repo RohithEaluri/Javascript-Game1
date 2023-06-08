@@ -1,6 +1,6 @@
 #grid {
     margin-top: 50px;
-    margin-left: 500px;
+    
     width: 400px;
     height: 300px;
     display: flex;
@@ -11,11 +11,11 @@
 
 
 h3 {
-    margin-left: 500px;
+   
     margin-top: 50px;
 }
 
 h1 {
-    margin-left: 550px;
+   
     color: rgb(226, 43, 43);
 }
