@@ -94,7 +94,7 @@ function checkMatch(){
     cardschosenIds=[]
 
     if(cardswon.length == (cardArray.length/2)){
-        resultdisplay.innerHTML= 'Congratulation you found them all'
+        resultdisplay.innerHTML= 'You are my most beautiful girl bandu - RE'
     }
 }
 function flipcard(){
